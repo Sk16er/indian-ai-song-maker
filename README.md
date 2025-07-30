@@ -1,5 +1,5 @@
 ---
-## 🇮🇳 Indian AI Song Maker 🎶
+[## 🇮🇳 Indian AI Song Maker 🎶](https://indian-ai-song-maker.vercel.app/)
 
 An interactive, AI-powered music interface that lets you mix and play genres inspired by traditional, folk, and modern Indian music styles.
 
@@ -56,7 +56,8 @@ npm start
 
 ### 📸 Screenshots
 
-> adding the images.. 
+> <img width="1866" height="1164" alt="image" src="https://github.com/user-attachments/assets/2770788e-a498-49be-affb-80c8eeab9076" />
+ 
 
 ---
 
