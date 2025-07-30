@@ -1,4 +1,3 @@
----
 [## 🇮🇳 Indian AI Song Maker 🎶](https://indian-ai-song-maker.vercel.app/)
 
 An interactive, AI-powered music interface that lets you mix and play genres inspired by traditional, folk, and modern Indian music styles.
@@ -82,4 +81,3 @@ Inspired by Indian musical traditions 🇮🇳 and global beat-making tools.
 MIT License.
 Feel free to remix and contribute!
 
----
