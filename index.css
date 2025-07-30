@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+body {
+  font-family: 'Exo 2', sans-serif;
+  font-size: 14px;
+  overflow: hidden;
+  background: #1a081c;
+}
+body.dragging {
+  cursor: ns-resize;
+}
+body.dragging * {
+  user-select: none;
+  pointer-events: none;
+}
